@@ -22,7 +22,7 @@ Read the [help][vim-doc] to know more.
 Just add this line to your `~/.vimrc`:
 
 ```vim
-Plugin 'rizzatti/dash.vim'
+Plugin 'Fierralin/vim.Fierralin'
 ```
 
 And run `:PluginInstall` inside Vim.
@@ -33,7 +33,7 @@ Copy and paste in your shell:
 
 ```bash
 cd ~/.vim/bundle
-git clone https://github.com/rizzatti/dash.vim.git
+git clone https://github.com/Fierralin/vim.Fierralin.git
 ```
 
 ### Using [vpm][vpm]:
